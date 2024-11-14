@@ -55,21 +55,3 @@
 </div>
 
 ###
-
-<h2 align="left">Connect with me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/manan-juneja/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="Retro#4836" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="manan.juneja09@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
